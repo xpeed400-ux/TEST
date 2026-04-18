@@ -1,0 +1,21 @@
+# Gradle / Android Studio
+.gradle/
+build/
+/local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystores
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Build distribution (packaged for download, not source)
+dist/
+ProCamS23FE.zip
