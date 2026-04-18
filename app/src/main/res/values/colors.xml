@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="procam_red">#FFE23939</color>
+    <color name="procam_amber">#FFE0A83C</color>
+    <color name="procam_teal">#FF3CCFC8</color>
+
+    <!-- Glass / HUD surface -->
+    <color name="hud_glass_strong">#B3111214</color>
+    <color name="hud_glass_soft">#80111214</color>
+    <color name="hud_glass_thin">#4D111214</color>
+    <color name="hud_outline">#1FFFFFFF</color>
+    <color name="hud_outline_strong">#33FFFFFF</color>
+
+    <!-- Text -->
+    <color name="hud_text_primary">#FFF5F5F7</color>
+    <color name="hud_text_dim">#B3F5F5F7</color>
+    <color name="hud_text_muted">#80F5F5F7</color>
+</resources>

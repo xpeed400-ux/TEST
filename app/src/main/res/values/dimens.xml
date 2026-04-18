@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spacing -->
+    <dimen name="space_xs">4dp</dimen>
+    <dimen name="space_sm">8dp</dimen>
+    <dimen name="space_md">12dp</dimen>
+    <dimen name="space_lg">16dp</dimen>
+    <dimen name="space_xl">24dp</dimen>
+
+    <!-- Radii -->
+    <dimen name="radius_pill">999dp</dimen>
+    <dimen name="radius_card">18dp</dimen>
+    <dimen name="radius_chip">12dp</dimen>
+
+    <!-- HUD -->
+    <dimen name="hud_strip_width">72dp</dimen>
+    <dimen name="hud_chip_height">36dp</dimen>
+    <dimen name="hud_record_size">76dp</dimen>
+</resources>
